@@ -1,0 +1,6 @@
+coloredlogs==15.0.1
+humanfriendly==10.0
+numpy
+torch==1.11.0
+tqdm==4.64.0
+typing-extensions==4.4.0
